@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Ashwin/Desktop/CSE 140L/Lab3/DFlipFlop_isim_beh.exe" -prj "C:/Users/Ashwin/Desktop/CSE 140L/Lab3/DFlipFlop_beh.prj" "work.DFlipFlop" "work.glbl" 
